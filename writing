@@ -1,0 +1,49 @@
+
+
+
+1.Cp
+
+2.crossower
+
+3.mutate
+
+4.fitness
+
+5.report
+
+6.getParamValue
+
+Max upper AX AY DX DY L0 L1 L2 L3 L4
+ 
+Min lower AX AY DX DY L0 L1 L2 L3 L4
+
+target path [(x,y)(x1,y1)()()()()()()]
+
+all Expression
+
+A,L0,a0,D,B,B,L1,L2,D,C,B,L3,L4,C,E
+
+Driving  A
+
+Follower D
+
+Link L0 L1 L2 L3 L4
+
+connect  L1 連接桿
+
+nParm 19
+
+nPop 250
+
+pCross 0.95 交配率
+
+pMute 0.05 突變率
+
+pWin 0.05  勝率
+
+bDelta 5  突變參數
+
+maxGen 1500  最大子代
+
+report 100  回報週期
+
